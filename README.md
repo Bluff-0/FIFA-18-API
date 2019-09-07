@@ -71,4 +71,4 @@ This project is licensed under the Apache License - see the [LICENSE.md](LICENSE
 
 ## Acknowledgments
 
-* I am obliged to my virtual instructor Andrew J Mead whose cource helped me a lot to prepare this API.
+* I am obliged to my virtual instructor Andrew J Mead whose course helped me a lot to prepare this API.
