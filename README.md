@@ -57,7 +57,7 @@ Usual express.js deployment
 
 ## Versioning
 
---- 
+---0.0.1--- 
 
 ## Authors
 
@@ -67,7 +67,7 @@ See also the list of [contributors](https://github.com/Bluff-0/FIFA-18-API/contr
 
 ## License
 
-This project is licensed under the Apache License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Bluff-0/FIFA-18-API/blob/add-license-1/License.md) file for details
 
 ## Acknowledgments
 
